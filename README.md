@@ -11,14 +11,14 @@ Fired up application opens the main window:
 The main window is divided into two sections:
 	Right sections is some information for the user, such as what is the purpose of application / how passwords are generated and a little guidance on how to generate the password
 
-	The left section requires user involvement. User chooses the length of the password (it should be between 6 and 20 characters long) and presses '**GO**' button. After it is done, a random password appears:
+	The left section requires user involvement. User chooses the length of the password (it should be between 6 and 20 characters long) and presses 'GO' button. After it is done, a random password appears:
 
 <img width="202" alt="Screenshot 2022-02-27 at 22 41 09" src="https://user-images.githubusercontent.com/100309347/155899897-95e2ee46-2318-482c-9c07-bdb087e5cf95.png">
 
-In order to easily copy password to the clipboard user can press the '**COPY**' button.
+In order to easily copy password to the clipboard user can press the 'COPY' button.
 
 A bit further down there are a few more buttons, which extends applications functionality.
-	The first one is '**Save to DB**', which evokes a new window:
+	The first one is 'Save to DB', which evokes a new window:
 
 <img width="259" alt="Screenshot 2022-02-27 at 22 41 25" src="https://user-images.githubusercontent.com/100309347/155899929-ffbd5f0d-4933-43e7-8786-bd1d76015ea4.png">
 
@@ -30,7 +30,7 @@ User is asked for the attributes that will be stored inside the Database. If all
 
 <img width="502" alt="Screenshot 2022-02-27 at 22 57 05" src="https://user-images.githubusercontent.com/100309347/155900072-bab45454-3fff-4a7c-9fea-02de050a96fc.png">
 
-	And the last functionality can be accessed when '**Edit DB**' button is pressed:
+	And the last functionality can be accessed when 'Edit DB' button is pressed:
 
 <img width="484" alt="Screenshot 2022-02-27 at 22 57 18" src="https://user-images.githubusercontent.com/100309347/155900093-c74c0aab-80fa-4e7f-8efa-9fab0e68ceaf.png">
 
